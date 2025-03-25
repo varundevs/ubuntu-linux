@@ -1,0 +1,4 @@
+Command Name: date
+Use: - It is used to display the system timestamp. The timestamp consists of day, date,
+time, timezone etc. Date command is also used to set date and time of the system.
+Syntax: - $date
