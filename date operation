@@ -1,4 +1,40 @@
-Command Name: date
-Use: - It is used to display the system timestamp. The timestamp consists of day, date,
-time, timezone etc. Date command is also used to set date and time of the system.
-Syntax: - $date
+NAME
+       date - print or set the system date and time
+
+SYNOPSIS
+       date [OPTION]... [+FORMAT]
+       date [-u|--utc|--universal] [MMDDhhmm[[CC]YY][.ss]]
+
+DESCRIPTION
+       Display date and time in the given FORMAT.  With -s, or with [MMDDhhmm[[CC]YY][.ss]], set the date and time.
+
+       Mandatory arguments to long options are mandatory for short options too.
+
+       -d, --date=STRING
+              display time described by STRING, not 'now'
+
+       --debug
+              annotate the parsed date, and warn about questionable usage to stderr
+
+       -f, --file=DATEFILE
+              like --date; once for each line of DATEFILE
+
+       -I[FMT], --iso-8601[=FMT]
+              output  date/time  in ISO 8601 format.  FMT='date' for date only (the default), 'hours', 'minutes', 'seconds', or 'ns' for date and time to the indi‐
+              cated precision.  Example: 2006-08-14T02:34:56-06:00
+
+       --resolution
+              output the available resolution of timestamps Example: 0.000000001
+
+       -R, --rfc-email
+              output date and time in RFC 5322 format.  Example: Mon, 14 Aug 2006 02:34:56 -0600
+
+       --rfc-3339=FMT
+              output date/time in RFC 3339 format.   FMT='date',  'seconds',  or  'ns'  for  date  and  time  to  the  indicated  precision.   Example:  2006-08-14
+              02:34:56-06:00
+
+       -r, --reference=FILE
+              display the last modification time of FILE
+
+       -s, --set=STRING
+              set time described by STRING
