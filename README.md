@@ -22,17 +22,17 @@ Below is the list of commands with the ***folder*** 📂 name and ***link*** �
 <sub>*du*</sub>
 > du
 
-5-> [__<ins>free</ins>__]()
+5-> [__<ins>free</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/free)
 
 <sub>*free*</sub>
 > free
 
-6-> [__<ins>man</ins>__]()
+6-> [__<ins>man</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/man)
 
 <sub>*man 🧍‍♀️*</sub>
 > man
 
-7-> [__<ins>uptime</ins>__]()
+7-> [__<ins>uptime</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/uptime)
 
 <sub>*uptime ⏲️*</sub>
 > uptime
