@@ -27,12 +27,12 @@ Below is the list of commands with the ***folder*** 📂 name and ***link*** �
 <sub>*free*</sub>
 > free
 
-6-> [__<ins>man</ins>__]()
+6-> [__<ins>man🧍‍♂️ </ins>__]()
 
 <sub>*man*</sub>
 > man
 
-7-> [__<ins>uptime</ins>__]()
+7-> [__<ins>uptime ⏲️</ins>__]()
 
 <sub>*uptime*</sub>
 > uptime
