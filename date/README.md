@@ -1,1 +1,2 @@
-this is the date command with output in ubuntu
+# date
+this is the date command with the output in ubuntu
