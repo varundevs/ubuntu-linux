@@ -1,13 +1,13 @@
-# ubuntu-linux
+# <ins>ubuntu-linux</ins>
 in this repository there is all the codes with the outputs of ubuntu shell commands
 Below is the list of commands with the ***folder*** 📂 name and ***link*** 🔗 
 
-1-> __calendar__
+1-> __<ins>Calendar</ins>__
     https://github.com/varundevs/ubuntu-linux/tree/main/calendar
 
-*Calendar 📅*
+<sub>*Calendar 📅*</sub>
 
-2-> __Date__
+2-> __<ins>Date</ins>__
     https://github.com/varundevs/ubuntu-linux/tree/main/date
 
 <sub>*Date 📅*</sub>
