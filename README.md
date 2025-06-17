@@ -17,7 +17,22 @@ Below is the list of commands with the ***folder*** ğŸ“‚ name and ***link*** ğŸ”
 <sub>*Df*</sub>
 > df
 
-4->[__<ins>DU</ins>__]()
+4-> [__<ins>DU</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/du)
 
 <sub>*du*</sub>
->du
+> du
+
+5-> [__<ins>free</ins>__]()
+
+<sub>*free*</sub>
+> free
+
+6-> [__<ins>man</ins>__]()
+
+<sub>*man*</sub>
+> man
+
+7-> [__<ins>uptime</ins>__]()
+
+<sub>*uptime*</sub>
+> uptime
