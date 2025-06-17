@@ -1,2 +1,2 @@
 # ubuntu-linux
-this is all the codes with the outputs of linux shell
+in this repository there is all the codes with the outputs of ubuntu shell commands
