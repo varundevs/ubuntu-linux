@@ -5,10 +5,12 @@ Below is the list of commands with the ***folder*** 📂 name and ***link*** �
 1-> [__<ins>Calendar</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/calendar)
 
 <sub>*Calendar 📅*</sub>
+> cal
 
 2-> [__<ins>Date</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/date)
 
 <sub>*Date 📅*</sub>
+> date
 
 3-> [__<ins>Df</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/df)
 
