@@ -15,3 +15,9 @@ Below is the list of commands with the ***folder*** ðŸ“‚ name and ***link*** ðŸ”
 3-> [__<ins>Df</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/df)
 
 <sub>*Df*</sub>
+> df
+
+4->[__<ins>DU</ins>__]()
+
+<sub>*du*</sub>
+>du
