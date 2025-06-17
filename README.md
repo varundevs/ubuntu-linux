@@ -9,3 +9,7 @@ Below is the list of commands with the ***folder*** 📂 name and ***link*** �
 2-> [__<ins>Date</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/date)
 
 <sub>*Date 📅*</sub>
+
+3-> [__<ins>Df</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/df)
+
+<sub>*Df*</sub>
