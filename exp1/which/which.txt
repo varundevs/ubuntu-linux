@@ -1,5 +1,3 @@
-WHICH(1)                                                              General Commands Manual                                                              WHICH(1)
-
 NAME
        which - locate a command
 
