@@ -52,12 +52,10 @@ Below is the list of commands with the ***folder*** 📂 name and ***link*** �
 
 ## 💡 Purpose
 
-This repo is intended for beginners and students learning basic Linux shell commands, how they work, and how they appear when executed.
+This is the first experiment
 
 ## 📬 Contributions
 
 If you'd like to add more commands, feel free to fork and pull request!
 
-## 🧑‍💻 Author
-
-[Varun Dev](https://github.com/varundevs)
+[**back**](https://github.com/varundevs/ubuntu-linux)
