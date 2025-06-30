@@ -1,5 +1,5 @@
 # <ins>ubuntu-linux</ins>
-in this repository there is all the codes with the outputs of ubuntu shell commands
+This repository contains Ubuntu shell commands, their scripts, and output examples—organized in folders with READMEs and visuals.
 Below is the list of commands with the ***folder*** 📂 name and ***link*** 🔗 
 
 1-> [__<ins>Calendar</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/calendar)
