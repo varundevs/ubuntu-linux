@@ -35,4 +35,17 @@ Below is the list of commands with the ***folder*** 📂 name and ***link*** �
 7-> [__<ins>uptime</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/uptime)
 
 <sub>*uptime ⏲️*</sub>
+
 > uptime
+
+## 💡 Purpose
+
+This repo is intended for beginners and students learning basic Linux shell commands, how they work, and how they appear when executed.
+
+## 📬 Contributions
+
+If you'd like to add more commands, feel free to fork and pull request!
+
+## 🧑‍💻 Author
+
+[Varun Dev](https://github.com/varundevs)
