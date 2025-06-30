@@ -38,13 +38,13 @@ Below is the list of commands with the ***folder*** 📂 name and ***link*** �
 
 > uptime
 
-8-> [__<ins>whereis</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/uptime)
+8-> [__<ins>whereis</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/whereis)
 
 <sub>*whereis 📍❓*</sub>
 
 > whereis
 
-9-> [__<ins>which</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/uptime)
+9-> [__<ins>which</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/which)
 
 <sub>*which ❓❗❓*</sub>
 
