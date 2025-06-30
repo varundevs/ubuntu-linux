@@ -38,6 +38,18 @@ Below is the list of commands with the ***folder*** 📂 name and ***link*** �
 
 > uptime
 
+8-> [__<ins>whereis</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/uptime)
+
+<sub>*whereis 📍❓*</sub>
+
+> whereis
+
+9-> [__<ins>which</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/uptime)
+
+<sub>*which ❓❗❓*</sub>
+
+> which
+
 ## 💡 Purpose
 
 This repo is intended for beginners and students learning basic Linux shell commands, how they work, and how they appear when executed.
