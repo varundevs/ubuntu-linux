@@ -1,5 +1,5 @@
-# <ins>ubuntu-linux</ins>
-This repository contains Ubuntu shell commands, their scripts, and output examples—organized in folders with READMEs and visuals.
+# <ins>exp1</ins>
+This folder contains Ubuntu shell commands, their scripts, and output examples—organized in folders with READMEs and visuals.
 Below is the list of commands with the ***folder*** 📂 name and ***link*** 🔗 
 
 1-> [__<ins>Calendar</ins>__](https://github.com/varundevs/ubuntu-linux/tree/main/calendar)
